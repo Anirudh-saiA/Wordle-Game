@@ -32,13 +32,7 @@ After each guess, the color of the tiles will change:
 
 Installation and Setup
 No dependencies required! This game runs entirely in the browser with vanilla JavaScript.
-Option 1: Direct download
 
-Clone this repository: git clone https://github.com/your-username/wordle-clone.git
-Open index.html in your browser
-
-Option 2: GitHub Pages
-Visit the live demo here
 Project Structure
 wordle-clone/
 ├── index.html      # Main HTML file with embedded CSS and JavaScript
